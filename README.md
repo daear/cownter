@@ -3,7 +3,7 @@ README
 # 🐮 cownter  
 A tiny clipboard monitor that shows live word & character counts.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot1.png)
 
 ## Usage  
 1. Install: ```pip install pyperclip```  
